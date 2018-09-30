@@ -17,12 +17,17 @@ class VerificationResultViewController: UIViewController, UISearchBarDelegate {
     
     @IBOutlet weak var tableView: UITableView!
     
+    @IBAction func toSettings(_ sender: Any) {
+        performSegue(withIdentifier: "toSettings", sender: sender)
+    }
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         avail = createArray()
         tableView.delegate = self
         tableView.dataSource = self
         assignbackground()
+        
     }
     
     func createArray() -> [Available]  {

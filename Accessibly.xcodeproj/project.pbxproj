@@ -25,6 +25,7 @@
 		3D1D02A4216064260015BB1E /* VerifyAPI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D1D02A3216064260015BB1E /* VerifyAPI.swift */; };
 		3D1D02A62160648E0015BB1E /* StartVerificationViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D1D02A52160648E0015BB1E /* StartVerificationViewController.swift */; };
 		3D1D02A8216082070015BB1E /* MTAResponse.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D1D02A7216082070015BB1E /* MTAResponse.swift */; };
+		3D4AA11E21611DFF009B1C03 /* SettingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D4AA11D21611DFF009B1C03 /* SettingsViewController.swift */; };
 		D3376A35CB0B37B1D20E9FCC /* Pods_Accessibly.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4D63F8CA439624BCE1DD3BEB /* Pods_Accessibly.framework */; };
 /* End PBXBuildFile section */
 
@@ -71,6 +72,7 @@
 		3D1D02A3216064260015BB1E /* VerifyAPI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VerifyAPI.swift; sourceTree = "<group>"; };
 		3D1D02A52160648E0015BB1E /* StartVerificationViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StartVerificationViewController.swift; sourceTree = "<group>"; };
 		3D1D02A7216082070015BB1E /* MTAResponse.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MTAResponse.swift; sourceTree = "<group>"; };
+		3D4AA11D21611DFF009B1C03 /* SettingsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsViewController.swift; sourceTree = "<group>"; };
 		4B927076780AE5E5D36462EF /* Pods-AccessiblyTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-AccessiblyTests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-AccessiblyTests/Pods-AccessiblyTests.debug.xcconfig"; sourceTree = "<group>"; };
 		4D63F8CA439624BCE1DD3BEB /* Pods_Accessibly.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Accessibly.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		9C821329C10ADBA64A1A743A /* Pods_AccessiblyUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_AccessiblyUITests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -147,6 +149,7 @@
 				3D1D02A7216082070015BB1E /* MTAResponse.swift */,
 				3D161C462160EE58006200AC /* StationCell.swift */,
 				3D161C482160EF1A006200AC /* Available.swift */,
+				3D4AA11D21611DFF009B1C03 /* SettingsViewController.swift */,
 			);
 			path = Accessibly;
 			sourceTree = "<group>";
@@ -405,6 +408,7 @@
 			files = (
 				3D1D02A2216064160015BB1E /* VerificationResultViewController.swift in Sources */,
 				3D1D02A0216063F90015BB1E /* CheckVerificationViewController.swift in Sources */,
+				3D4AA11E21611DFF009B1C03 /* SettingsViewController.swift in Sources */,
 				3D1D02A62160648E0015BB1E /* StartVerificationViewController.swift in Sources */,
 				3D1D026E21605F430015BB1E /* ViewController.swift in Sources */,
 				3D1D02A4216064260015BB1E /* VerifyAPI.swift in Sources */,
