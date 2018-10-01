@@ -3,8 +3,6 @@
 HackNY Fall 2018 Best Hack for Social Good!!!
 </h4>
 
-<h1>Accessibly</h1>
-
 <h4>Problem</h4>
 <p>
 Taking the transit through the city with millions of other people, it can be easy to assume that they are experiencing life the same way as you. However, people who possess a handicap or disability have a radically different experience, undergoing a disproportionate amount of stress while commuting compared to everyone else. 
